@@ -1,1 +1,3 @@
 # BinarySearchTree
+
+For this project, I implemented an insert, search, and remove function for a Binary Tree. I began with the insert function, moved on to the search function, and ended with writing the remove function. I also used the pseudocode from the assignment to assist with the writing of each. When facing roadblocks, I reached out to the tutoring center for assistance, and I also leaned on my contact from a Discord channel I joined for C++. My approach on this project assisted me with designing better pseudocode, and it also deepened my understanding on the order in which to write functions. I evolved in doing this project because it assisted me with locating coding bugs, and working them out to get my written code to work.
